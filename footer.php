@@ -12,7 +12,6 @@
     </span>
     </center><br></footer>
 <?php
-show_source("footer.php");
-fdfsfsd
+show_source("footer.php")
 ?>
 </html>
