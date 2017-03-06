@@ -1,0 +1,26 @@
+input[type=text]{
+    width: 15%;
+    padding: 3px 5px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    border: 2px solid lightgrey;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+input[type=password]{
+    width: 15%;
+    padding: 3px 5px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    border: 2px solid lightgrey;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+input[type=text]:focus {
+    border: 3px solid salmon;
+}
+input[type=password]:focus{
+    border: 3px solid salmon;
+}
